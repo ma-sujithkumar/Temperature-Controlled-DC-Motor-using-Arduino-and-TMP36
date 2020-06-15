@@ -1,0 +1,6 @@
+Name,Quantity,Component
+"U3",1," Arduino Uno R3"
+"M2",1," DC Motor"
+"T2",1," NPN Transistor (BJT)"
+"U2",1,"5 V Zener Diode"
+"U5",1," Temperature Sensor [TMP36]"
